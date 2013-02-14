@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2013 Yu AOKI -->
+<resources>
+
+    <string name="app_name">GmailSample</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="separator">" / "</string>
+</resources>
